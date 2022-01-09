@@ -2,8 +2,7 @@
 #       '#'      :  son comentarios sobre lineas del lenguaje
 #       '@[...]' :  son desiciones excluyentes que se toman
 #                   dentro de la historia
-#       '@<...>' :  son incorporaciones en este archivo de
-#                   otros achivos existentes
+#       '@<...>' :  son importaciones de otros archivos
 
 
 Elije tu provia aventura
